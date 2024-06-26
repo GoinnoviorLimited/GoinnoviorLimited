@@ -3,7 +3,7 @@
 <h3 align="center">WE TAKE RESPONSIBILITY
 FOR YOUR DATA SAFETY</h3>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIV4p4FeHnyxemykfUm5oHtDiKD5MevQn7pw&s" alt="Banner" style="width: 100%;">
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIV4p4FeHnyxemykfUm5oHtDiKD5MevQn7pw&s](https://media.licdn.com/dms/image/D563DAQFaqBWLXcCZ-g/image-scale_191_1128/0/1667277056709/goinnovior_cover?e=2147483647&v=beta&t=MKS46VJ__8G_JZ7ETw5jSB8Foxs3PzpvsitHplWGaTs)" alt="Banner" style="width: 100%;">
 
 
 ## 🌐 Socials:
