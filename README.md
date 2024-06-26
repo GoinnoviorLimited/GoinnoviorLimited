@@ -3,7 +3,8 @@
 <h3 align="center">WE TAKE RESPONSIBILITY
 FOR YOUR DATA SAFETY</h3>
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIV4p4FeHnyxemykfUm5oHtDiKD5MevQn7pw&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIV4p4FeHnyxemykfUm5oHtDiKD5MevQn7pw&s" alt="Banner" style="width: 100%;">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/goinnovior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goinnovior) 
